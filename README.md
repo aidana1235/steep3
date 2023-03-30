@@ -1,4 +1,4 @@
-name: Setup nde.js
+name: Setup node.js
 on: workflow_dispatch
 jobs:
 print:

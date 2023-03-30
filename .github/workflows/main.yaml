@@ -6,3 +6,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: echo "Hello, world!"
+
+    - name: List current gilder
+      run: ls -la
